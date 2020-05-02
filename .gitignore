@@ -16,6 +16,7 @@ _mailinglist
 .idea/
 docs/_build/
 __pycache__
+.vscode
 
 # Coverage reports
 htmlcov/
@@ -26,3 +27,4 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
