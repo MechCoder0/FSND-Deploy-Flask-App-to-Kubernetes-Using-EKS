@@ -1,0 +1,2 @@
+set JWT_SECRET='myjwtsecret'
+set LOG_LEVEL=DEBUG
